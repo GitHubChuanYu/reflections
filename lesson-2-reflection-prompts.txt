@@ -21,6 +21,8 @@ and you don't want to commit them into master branch.
 
 How do the diagrams help you visualize the branch structure?
 
+It clearly shows how the branch is generated and what are the relationships between different branches.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
