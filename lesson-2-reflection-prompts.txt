@@ -30,3 +30,6 @@ The result is to merge sidepath changes into mainpath after those changes are te
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Git's automatic merging can be quick but cannot resolve all the merging conflicts.
+Doing merge manually is time-consuming but can resolve all the merging conflicts as we want.
