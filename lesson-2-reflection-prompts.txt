@@ -26,5 +26,7 @@ It clearly shows how the branch is generated and what are the relationships betw
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result is to merge sidepath changes into mainpath after those changes are tested as good. It shows the relationship between branches clearly.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
